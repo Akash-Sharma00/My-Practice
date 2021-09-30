@@ -1,0 +1,5 @@
+D:\c c++\.vscode\c# practicals\practial6\obj\Debug\net5.0\practial6.csproj.AssemblyReference.cache
+D:\c c++\.vscode\c# practicals\practial6\obj\Debug\net5.0\practial6.GeneratedMSBuildEditorConfig.editorconfig
+D:\c c++\.vscode\c# practicals\practial6\obj\Debug\net5.0\practial6.AssemblyInfoInputs.cache
+D:\c c++\.vscode\c# practicals\practial6\obj\Debug\net5.0\practial6.AssemblyInfo.cs
+D:\c c++\.vscode\c# practicals\practial6\obj\Debug\net5.0\practial6.csproj.CoreCompileInputs.cache

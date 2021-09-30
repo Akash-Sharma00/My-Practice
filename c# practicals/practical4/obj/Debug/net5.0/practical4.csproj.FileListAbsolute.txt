@@ -1,0 +1,16 @@
+D:\c c++\.vscode\c# practicals\practical4\bin\Debug\net5.0\practical4.exe
+D:\c c++\.vscode\c# practicals\practical4\bin\Debug\net5.0\practical4.deps.json
+D:\c c++\.vscode\c# practicals\practical4\bin\Debug\net5.0\practical4.runtimeconfig.json
+D:\c c++\.vscode\c# practicals\practical4\bin\Debug\net5.0\practical4.runtimeconfig.dev.json
+D:\c c++\.vscode\c# practicals\practical4\bin\Debug\net5.0\practical4.dll
+D:\c c++\.vscode\c# practicals\practical4\bin\Debug\net5.0\ref\practical4.dll
+D:\c c++\.vscode\c# practicals\practical4\bin\Debug\net5.0\practical4.pdb
+D:\c c++\.vscode\c# practicals\practical4\obj\Debug\net5.0\practical4.csproj.AssemblyReference.cache
+D:\c c++\.vscode\c# practicals\practical4\obj\Debug\net5.0\practical4.GeneratedMSBuildEditorConfig.editorconfig
+D:\c c++\.vscode\c# practicals\practical4\obj\Debug\net5.0\practical4.AssemblyInfoInputs.cache
+D:\c c++\.vscode\c# practicals\practical4\obj\Debug\net5.0\practical4.AssemblyInfo.cs
+D:\c c++\.vscode\c# practicals\practical4\obj\Debug\net5.0\practical4.csproj.CoreCompileInputs.cache
+D:\c c++\.vscode\c# practicals\practical4\obj\Debug\net5.0\practical4.dll
+D:\c c++\.vscode\c# practicals\practical4\obj\Debug\net5.0\ref\practical4.dll
+D:\c c++\.vscode\c# practicals\practical4\obj\Debug\net5.0\practical4.pdb
+D:\c c++\.vscode\c# practicals\practical4\obj\Debug\net5.0\practical4.genruntimeconfig.cache

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enevt listener</title>
+</head>
+
+<body>
+    <h1 id="time"></h1>
+    <h2>Start listeing the events</h2>
+    <p id='para'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, repellat sunt, maiores alias,
+        voluptatum esse repudiandae magnam laboriosam animi necessitatibus vitae consequuntur harum sed unde dolores
+        quam amet enim quidem doloremque nisi nihil! Exercitationem iure delectus accusantium dicta voluptates harum ex
+        illum, totam sit architecto rerum facilis. Id, autem accusamus.</p>
+    <button id='btn' onclick='hide()'>Hide</button>
+    <script>
+        let para = document.getElementById('para');
+        let btn = document.getElementById('btn');
+        function hide() {
+            if (para.style.display != 'none') {
+                para.style.display = 'none';
+                btn.innerHTML = 'Show';
+            }
+            else {
+                para.style.display = 'block';
+                btn.innerHTML = 'Hide';
+            }
+        }
+        // var time = 0;
+        // function displayTime(){
+        //     // let time = new Date();
+        //     time += 1;
+        //     // document.getElementById('time').innerHTML = time;
+        //     console.log(time);
+        // }
+        // // setInterval(displayTime, 0);
+        // let dt = new Date();
+        // dt.getDay;
+        // document.getElementById('time').innerHTML = dt;
+
+        let obj1 = {
+            names =[Akash, Raja, Ashish, Krishna, Aditya],
+            greet() {
+                this.names.forEach((element) => {
+                    console.log("Hello " + element);
+                });
+            }
+
+        }
+        obj1.greet();
+    </script>
+</body>
+
+</html>

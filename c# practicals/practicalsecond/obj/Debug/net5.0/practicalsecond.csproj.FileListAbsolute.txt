@@ -1,0 +1,16 @@
+D:\c c++\.vscode\c# practicals\practicalsecond\obj\Debug\net5.0\practicalsecond.csproj.AssemblyReference.cache
+D:\c c++\.vscode\c# practicals\practicalsecond\obj\Debug\net5.0\practicalsecond.GeneratedMSBuildEditorConfig.editorconfig
+D:\c c++\.vscode\c# practicals\practicalsecond\obj\Debug\net5.0\practicalsecond.AssemblyInfoInputs.cache
+D:\c c++\.vscode\c# practicals\practicalsecond\obj\Debug\net5.0\practicalsecond.AssemblyInfo.cs
+D:\c c++\.vscode\c# practicals\practicalsecond\obj\Debug\net5.0\practicalsecond.csproj.CoreCompileInputs.cache
+D:\c c++\.vscode\c# practicals\practicalsecond\bin\Debug\net5.0\practicalsecond.exe
+D:\c c++\.vscode\c# practicals\practicalsecond\bin\Debug\net5.0\practicalsecond.deps.json
+D:\c c++\.vscode\c# practicals\practicalsecond\bin\Debug\net5.0\practicalsecond.runtimeconfig.json
+D:\c c++\.vscode\c# practicals\practicalsecond\bin\Debug\net5.0\practicalsecond.runtimeconfig.dev.json
+D:\c c++\.vscode\c# practicals\practicalsecond\bin\Debug\net5.0\practicalsecond.dll
+D:\c c++\.vscode\c# practicals\practicalsecond\bin\Debug\net5.0\ref\practicalsecond.dll
+D:\c c++\.vscode\c# practicals\practicalsecond\bin\Debug\net5.0\practicalsecond.pdb
+D:\c c++\.vscode\c# practicals\practicalsecond\obj\Debug\net5.0\practicalsecond.dll
+D:\c c++\.vscode\c# practicals\practicalsecond\obj\Debug\net5.0\ref\practicalsecond.dll
+D:\c c++\.vscode\c# practicals\practicalsecond\obj\Debug\net5.0\practicalsecond.pdb
+D:\c c++\.vscode\c# practicals\practicalsecond\obj\Debug\net5.0\practicalsecond.genruntimeconfig.cache

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manu</title>
+    <style>
+        .manu {
+            background-color: black;
+        }
+
+        .manu ul {
+            overflow: auto;
+        }
+
+        .manu li {
+            float: left;
+            padding-top: 5px;
+            list-style: none;
+        }
+
+        .manu li :hover {
+            color: red;
+        }
+
+        .manu li a {
+            color: white;
+            text-decoration: none;
+            padding: 4px 4px;
+        }
+
+        #search {
+            float: right;
+            padding: 4px 18px;
+            margin: 1px -1px;
+            border-radius: 13px;
+        }
+
+        img {
+            float: right;
+            height: 25px;
+            padding: 3px;
+            margin: 0px 3px
+        }
+
+        p::after {
+            content: "";
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+
+        <nav class="manu">
+            <ul>
+                <li><a href="https://youtu.be/v1ZYCoAa6Go">Home</a></li>
+                <li><a href="#">Service</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact us</a></li>
+                <img src="images.jpg" alt="yeh">
+                <div>
+                    <input type="text" id="search" placeholder="Search here">
+                </div>
+            </ul>
+        </nav>
+</body>
+
+</html>

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exellency</title>
+    <style>
+        body {
+            color: white;
+            background: url(img11.jpg);
+        }
+
+        .left {
+            display: inline-block;
+            /* border: 2px solid red; */
+            position: absolute;
+            left: 45px;
+            top: 18px;
+        }
+
+        .left img {
+            width: 115px;
+            padding: 0px 37px;
+        }
+
+        .left h3 {
+            text-align: center;
+            line-height: 0px;
+        }
+
+        .mid {
+            display: block;
+            width: 33%;
+            margin: 30px auto;
+            /* border: 2px solid green */
+        }
+
+        .right {
+            display: inline-block;
+            top: 31px;
+            position: absolute;
+            right: 19px;
+            padding: 7px 34px;
+            /* border: 2px solid blue; */
+
+        }
+
+        .right input {
+            border: 2px solid grey;
+            border-radius: 8px;
+            display: block;
+            margin: 0px 16px;
+        }
+
+        .right button {
+            line-height: 2px;
+            line-height: 19px;
+            margin: 18px 3px;
+        }
+        .manu{
+            position: fixed;
+            /* background-color: black; */
+        }
+
+        .manu li {
+            font-weight: bold;
+            display: inline-block;
+            padding: 2px 11px;
+            font-size: 17px;
+        }
+
+        .manu a {
+            text-decoration: none;
+            color: white;
+        }
+
+        .manu li :hover {
+            color: rgb(212, 198, 198);
+            text-decoration: underline;
+        }
+
+        .btn {
+            background-color: black;
+            color: white;
+            border: 2px solid gray;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            color: rgb(212, 198, 198);
+            text-decoration: underline;
+        }
+
+        .container {
+            display: inline-block;
+            background: url("sbg.jpg");
+            border: 2px solid white;
+            margin: 93px 10px;
+            padding: 5px 107px;
+            width: 17%;
+            border-radius: 10px;
+        }
+
+        .form-style {
+            padding: 9px 15px;
+        }
+
+        .container h4 {
+            text-align: center;
+            font-size: 26px;
+        }
+
+        .form-style input {
+            text-align: center;
+            display: block;
+            padding: 9px 5px;
+            width: 191px;
+            border: 2px solid grey;
+            border-radius: 8px;
+        }
+
+        .container button {
+            margin: 8px 57px;
+        }
+
+        #chill {
+            margin: 38px 2px;
+            width: 64%;
+            border: 2px solid grey;
+            border-radius: 10px;
+        }
+        #t{
+            /* display: inline-block; */
+            position: sticky;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="left">
+            <img src="download.jpg" alt="">
+            <h3>Akash's Excellency Class</h3>
+        </div>
+        <div id="t">
+        <div class="mid">
+            <ul class="manu">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Student corner</a></li>
+                <li><a href="#">Batches</a></li>
+                <li><a href="#">Fees details</a></li>
+            </ul>
+        </div>
+    </div>
+        <div class="right">
+            <input type="text" placeholder="Search">
+            <button class="btn">Contact us</button>
+            <a href="mailto:akashvsharma@gmail.com"><button class="btn">Email us</button></a>
+        </div>
+    </header>
+    <div class="container">
+        <h4>Admission Form</h4>
+        <form action="none.php">
+            <div class="form-style"><input type="text" placeholder="Enter your Name"></div>
+            <div class="form-style"><input type="number" placeholder="Enter your Age"></div>
+            <div class="form-style"><input type="text" placeholder="Enter your Gender"></div>
+            <div class="form-style"><input type="text" placeholder="Enter your Standard"></div>
+            <div class="form-style"><input type="text" placeholder="Enter your BOARD"></div>
+            <div class="form-style"><input type="number" placeholder="Enter your Contact no."></div>
+            <div class="form-style"><input type="email" placeholder="Enter your Email"></div>
+            <button class="btn">Submit</button>
+            <input type="reset" class="btn">
+        </form>
+    </div>
+    <img id="chill" src="https://source.unsplash.com/600x300/?education" alt="">
+</body>
+
+</html>

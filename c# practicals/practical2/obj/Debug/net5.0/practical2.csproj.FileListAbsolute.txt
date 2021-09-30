@@ -1,0 +1,32 @@
+D:\c c++\.vscode\practical2\bin\Debug\net5.0\practical2.exe
+D:\c c++\.vscode\practical2\bin\Debug\net5.0\practical2.deps.json
+D:\c c++\.vscode\practical2\bin\Debug\net5.0\practical2.runtimeconfig.json
+D:\c c++\.vscode\practical2\bin\Debug\net5.0\practical2.runtimeconfig.dev.json
+D:\c c++\.vscode\practical2\bin\Debug\net5.0\practical2.dll
+D:\c c++\.vscode\practical2\bin\Debug\net5.0\ref\practical2.dll
+D:\c c++\.vscode\practical2\bin\Debug\net5.0\practical2.pdb
+D:\c c++\.vscode\practical2\obj\Debug\net5.0\practical2.csproj.AssemblyReference.cache
+D:\c c++\.vscode\practical2\obj\Debug\net5.0\practical2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c c++\.vscode\practical2\obj\Debug\net5.0\practical2.AssemblyInfoInputs.cache
+D:\c c++\.vscode\practical2\obj\Debug\net5.0\practical2.AssemblyInfo.cs
+D:\c c++\.vscode\practical2\obj\Debug\net5.0\practical2.csproj.CoreCompileInputs.cache
+D:\c c++\.vscode\practical2\obj\Debug\net5.0\practical2.dll
+D:\c c++\.vscode\practical2\obj\Debug\net5.0\ref\practical2.dll
+D:\c c++\.vscode\practical2\obj\Debug\net5.0\practical2.pdb
+D:\c c++\.vscode\practical2\obj\Debug\net5.0\practical2.genruntimeconfig.cache
+D:\c c++\.vscode\c# practicals\practical2\bin\Debug\net5.0\practical2.exe
+D:\c c++\.vscode\c# practicals\practical2\bin\Debug\net5.0\practical2.deps.json
+D:\c c++\.vscode\c# practicals\practical2\bin\Debug\net5.0\practical2.runtimeconfig.json
+D:\c c++\.vscode\c# practicals\practical2\bin\Debug\net5.0\practical2.runtimeconfig.dev.json
+D:\c c++\.vscode\c# practicals\practical2\bin\Debug\net5.0\practical2.dll
+D:\c c++\.vscode\c# practicals\practical2\bin\Debug\net5.0\ref\practical2.dll
+D:\c c++\.vscode\c# practicals\practical2\bin\Debug\net5.0\practical2.pdb
+D:\c c++\.vscode\c# practicals\practical2\obj\Debug\net5.0\practical2.csproj.AssemblyReference.cache
+D:\c c++\.vscode\c# practicals\practical2\obj\Debug\net5.0\practical2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c c++\.vscode\c# practicals\practical2\obj\Debug\net5.0\practical2.AssemblyInfoInputs.cache
+D:\c c++\.vscode\c# practicals\practical2\obj\Debug\net5.0\practical2.AssemblyInfo.cs
+D:\c c++\.vscode\c# practicals\practical2\obj\Debug\net5.0\practical2.csproj.CoreCompileInputs.cache
+D:\c c++\.vscode\c# practicals\practical2\obj\Debug\net5.0\practical2.dll
+D:\c c++\.vscode\c# practicals\practical2\obj\Debug\net5.0\ref\practical2.dll
+D:\c c++\.vscode\c# practicals\practical2\obj\Debug\net5.0\practical2.pdb
+D:\c c++\.vscode\c# practicals\practical2\obj\Debug\net5.0\practical2.genruntimeconfig.cache

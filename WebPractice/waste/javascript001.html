@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+    </style>
+</head>
+
+<body>
+    <h3 id="con">This is my first java script practice</h3>
+    <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque maxime sequi saepe quae illo, debitis eveniet
+        a, at voluptatem amet ipsa consequatur vitae tenetur laboriosam, nobis velit voluptates expedita rerum?</h4>
+    <button id='abc'>Click me</button>
+    <script>
+        var a = 'akash is good boy';
+        var l = a.length;
+        console.log(l);
+        var s = a.slice(2, 5);
+        console.log(s);
+        s = a.replace('akash', 'Krishna');
+        console.log(s);
+        console.log(a.toUpperCase());
+        var b = a.toUpperCase();
+        console.log(b);
+        document.write("Hello world");
+        document.getElementById('abc').addEventListener("click", function () {
+            var name = window.prompt("Enter your name ");
+            document.write("\nHii " + name + " Here you can write any table<br>");
+            document.write("<button id = 'table'>Print table</button>")
+            document.getElementById('table').addEventListener('click', function () {
+                var i, n, s = 0;
+                n = window.prompt("Enter number- ");
+                for (i = 1; i < 11; i++) {
+                    document.write("<br>");
+                    sum = i * n;
+                    document.write(n + " * " + i + " = " + sum);
+                }
+                document.write("<hr>")
+            })
+        });
+        let p = document.getElementById('con');
+        console.log(p);
+    </script>
+</body>
+
+</html>

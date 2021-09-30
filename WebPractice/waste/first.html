@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1 {
+            color: rgb(255, 0, 0);
+            background-color: aqua;
+        }
+
+        form {
+            color: blue;
+            background-image: image();
+        }
+        #t{
+            border: solid 3px;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- &#8203 is used for blank character -->
+    <h1>HEllo world this is my first &#8203</h1>
+    <h1>HEllo world this is my first page</h1>
+    <h1>HEllo world this is my first page</h1>
+    <h1>HEllo world this is my first page</h1>
+    <h5>This is 5th heading</h5>
+    <strong>Hello I am a strong tag</strong><br>
+    <img src="https://source.unsplash.com/600x300/?nature,water" alt="Image not loaded">
+    <h3>Table</h3>
+    <table id="t">
+        <thead>
+            <tr id="t">
+                <th id="t">Name</th>
+                <th>Id</th>
+                <th>Age</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Akash</td>
+                <td>123</td>
+                <td>21</td>
+            </tr>
+        </tbody>
+    </table>
+    <form>
+        <div>
+            Name:<input type="text">
+        </div>
+        <br>
+        <label for="age">Age</label>
+        <div>
+            <input type="number" id="age">
+        </div>
+        <br>
+        <div>
+            Password: <input type="password">
+        </div>
+        <br>
+        <div>
+            Date: <input type="date">
+        </div>
+        <br>
+        <div>
+            Gender: Male<input type="radio" name="Gender">Female <input type="radio" name="Gender">
+        </div>
+        <br>
+        <div>
+            <label for="car">Car</label>
+            <select name="mycar" id="car">
+                <option value="i">Idica</option>
+                <option value="s">Skoda</option>
+                <option value="j" selected>Jaguar</option>
+            </select>
+        </div>
+        <input type="submit" name="Submit"><input type="reset" name="Reset">
+    </form>
+    <details>
+        <summary>Name</summary> Hello my name is akash
+    </details>
+</body>
+
+</html>

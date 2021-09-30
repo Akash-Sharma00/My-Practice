@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Electronics Store</title>
+    <style>
+        body {
+            background: url(appliances-background.png);
+            color: white;
+        }
+
+        .submenu {
+            background-color: rgb(46, 35, 35);
+            text-decoration: none;
+        }
+
+        .submenu a {
+            text-decoration: none;
+            color: white;
+        }
+
+        .submenu ul {
+            display: flex;
+            margin: -8px -29px;
+        }
+
+        .submenu li {
+            list-style: none;
+            position: sticky;
+            font-weight: bold;
+            padding: 4px;
+            margin: 2px 2px;
+        }
+
+        .submenu li :hover {
+            color: rgb(7, 207, 233);
+            text-decoration: underline;
+        }
+
+        .submenu input {
+            float: right;
+            margin: -18px 173px;
+            border-radius: 7px;
+        }
+
+        #b1 {
+            float: right;
+            margin: -17px 109px;
+        }
+
+        #b2 {
+            float: right;
+            margin: -17px 10px;
+        }
+
+        .buttons {
+            background-color: black;
+            color: white;
+            border: 2px solid gray;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .buttons:hover {
+            color: rgb(7, 207, 233);
+        }
+        .buttons a:hover{
+            color: rgb(7, 207, 233);
+        }
+
+        .greet {
+            text-align: center;
+        }
+
+        .greet p {
+            text-decoration: underline;
+            line-height: 0;
+            float: right;
+            padding: 4px 468px;
+            margin: -10px;
+        }
+
+        .main {
+            /* border: 2px solid red; */
+            display: flex;
+            width: 100%;
+            height: 310px;
+        }
+
+        .box {
+            width: 181px;
+            height: 188px;
+            /* border: 2px solid green;
+            background-color: tomato; */
+            margin: 36px;
+            padding: 33px 98px;
+        }
+
+        .box:hover{
+            transform: scale(1.2);
+            border-radius: 10px;
+        }
+
+        .main img {
+            width: 322px;
+            margin: 2px -65px;
+        }
+
+        .main h5 {
+            align-items: center;
+            font-size: 24px;
+            margin: 9px
+        }
+        .last{
+            background-color: rgb(59, 54, 54);
+            text-align: center;
+            bottom: 0px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="menu">
+        <div class="submenu">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Products</a></li>
+                <li><a href="#">About Us</a></li>
+            </ul>
+            <input type="text" placeholder="Seach here..">
+            <button class="buttons" id="b1">Search</button>
+            <button class="buttons" id="b2"><a href="mailto:rajacom30@gmail.com" > Contact Us</a></button>
+        </div>
+    </div>
+    <div class="greet">
+        <h2>Welcome to Goodwill Electronics</h2>
+        <p>-Shopping with joy</p>
+        <marquee scrollamount="5" behavior="scroll">
+            <h3>We are here for your Service like:- Repairing, Guiding, Delivering, Helping etc..</h3>
+        </marquee>
+    </div>
+    <div class="main">
+        <div class="box" id="box1">
+            <img src="phones.jpg" alt="Sorry">
+            <h5>Smart-Phones</h5>
+        </div>
+        <div class="box" id="box1">
+            <img src="phones.jpg" alt="Sorry">
+            <h5>Smart-Phones</h5>
+        </div>
+        <div class="box" id="box3">
+            <img src="phones.jpg" alt="Sorry">
+            <h5>Smart-Phones</h5>
+        </div>
+    </div>
+    <div class="main">
+        <div class="box" id="box1">
+            <img src="phones.jpg" alt="Sorry">
+            <h5>Smart-Phones</h5>
+        </div>
+        <div class="box" id="box2">
+            <img src="phones.jpg" alt="Sorry">
+            <h5>Smart-Phones</h5>
+        </div>
+        <div class="box" id="box3">
+            <img src="phones.jpg" alt="Sorry">
+            <h5>Smart-Phones</h5>
+        </div>
+    </div>
+    <footer class="last">
+        <div>
+            <p>Good Will Electronics:www.goodwillelectronics.com</p>
+            <p>Terms & Condidtions | Policy | Services</p>
+        </div>
+    </footer>
+</body>
+</html>
